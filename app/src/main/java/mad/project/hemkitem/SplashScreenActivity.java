@@ -18,6 +18,7 @@ public class SplashScreenActivity extends AppCompatActivity {
         View decorView=getWindow().getDecorView();
 
         decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_FULLSCREEN);
+        finish();
 
         //next page transition
         new Handler().postDelayed(new Runnable() {

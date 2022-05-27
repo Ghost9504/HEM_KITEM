@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HEM_KITEM/app/src/main/res/drawable/ic_home.xml" value="0.1585" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HEM_KITEM/app/src/main/res/drawable/ic_person.xml" value="0.2205" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HEM_KITEM/app/src/main/res/drawable/ic_search.xml" value="0.2205" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HEM_KITEM/app/src/main/res/drawable/ici_list.xml" value="0.2205" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HEM_KITEM/app/src/main/res/layout/activity_app_home.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/sebastian fernandes/Desktop/MAD_MINI_PROJECT/HEM_KITEM/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/sebastian fernandes/Desktop/MAD_MINI_PROJECT/HEM_KITEM/app/src/main/res/layout/activity_main.xml" value="0.225" />
       </map>
